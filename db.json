@@ -1,14 +1,112 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "Cilostazol 100 mg Tablet [<em>Viagra</em>]"
+        }
+      ],
+      "name": "Cilostazol 100 mg Tablet [Viagra]",
+      "country": "Thailand",
+      "brands": [
+        "VIAGRA ( TABLETS 50 MG)"
+      ],
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": null,
+      "ema_ma_numbers": null,
+      "pzns": [],
+      "co_product_ids": [],
+      "tr_product_ids": [],
+      "it_product_ids": [],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [
+        "1C 120/47(N)"
+      ],
+      "sg_product_ids": [],
+      "dosage_forms": [
+        "Tablet"
+      ],
+      "strength_number": "100",
+      "strength_unit": "mg",
+      "dosage_form": [
+        "Tablet"
+      ],
+      "route": "",
+      "approved": true,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB01166",
+          "name": "Cilostazol",
+          "cas": "73963-72-1",
+          "strength_number": "100",
+          "strength_unit": "mg"
+        }
+      ]
+    },
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "Sildenafil 50 mg Oral Tablet [<em>Viagra</em>]"
+        }
+      ],
+      "name": "Sildenafil 50 mg Oral Tablet [Viagra]",
+      "country": "EU",
+      "brands": [
+        "Viagra"
+      ],
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": [
+        "EMEA/H/C/000202"
+      ],
+      "ema_ma_numbers": [
+        "EMEA/H/C/000202"
+      ],
+      "pzns": [],
+      "co_product_ids": ["meowmeow meow hi meow"],
+      "tr_product_ids": [],
+      "it_product_ids": [],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [],
+      "sg_product_ids": [],
+      "dosage_forms": [
+        "Tablet, film coated"
+      ],
+      "strength_number": "50",
+      "strength_unit": "mg",
+      "dosage_form": [
+        "Tablet, film coated"
+      ],
+      "route": "Oral",
+      "approved": true,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB00203",
+          "name": "Sildenafil",
+          "cas": "139755-83-2",
+          "strength_number": "50",
+          "strength_unit": "mg"
+        }
+      ]
+    }
+  ]
 }
