@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "Cilostazol 100 mg Tablet [<em>Vergara</em>]"
+        }
+      ],
+      "name": "Cilostazol 100 mg Tablet [Vergara]",
+      "country": "Meowland",
+      "brands": [
+        "VIAGRA ( TABLETS 50 MG)"
+      ],
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": null,
+      "ema_ma_numbers": null,
+      "pzns": [],
+      "co_product_ids": ["meow meow bye bye tell the cats I said hi"],
+      "tr_product_ids": ["meow","miau"],
+      "it_product_ids": [],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [
+        "1C 120/47(N)"
+      ],
+      "sg_product_ids": [],
+      "dosage_forms": [
+        "Tablet"
+      ],
+      "strength_number": "100",
+      "strength_unit": "mg",
+      "dosage_form": [
+        "Tablet"
+      ],
+      "route": "",
+      "approved": true,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB01166",
+          "name": "Cilostazol",
+          "cas": "73963-72-1",
+          "strength_number": "100",
+          "strength_unit": "mg"
+        }
+      ]
+    },
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "Sildenafil 50 mg Oral Tablet [<em>Vergara</em>]"
+        }
+      ],
+      "name": "Sildenafil 50 mg Oral Tablet [Vergara]",
+      "country": "EU",
+      "brands": [
+        "Viagra"
+      ],
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": [
+        "EMEA/H/C/000202"
+      ],
+      "ema_ma_numbers": [
+        "EMEA/H/C/000202"
+      ],
+      "pzns": [],
+      "co_product_ids": [],
+      "tr_product_ids": [],
+      "it_product_ids": [],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [],
+      "sg_product_ids": [],
+      "dosage_forms": [
+        "Tablet, film coated"
+      ],
+      "strength_number": "50",
+      "strength_unit": "mg",
+      "dosage_form": [
+        "Tablet, film coated"
+      ],
+      "route": "Oral",
+      "approved": true,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB00203",
+          "name": "Sildenafil",
+          "cas": "139755-83-2",
+          "strength_number": "50",
+          "strength_unit": "mg"
+        }
+      ]
+    },
+    "..."
+  ]
+}
